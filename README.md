@@ -1,6 +1,10 @@
-# weather_app
+# Mausam : Weather App
 
 Weather conditions at your current location
+
+## Weather API
+
+FreeCodeCamp
 
 ## Screenshot
 
