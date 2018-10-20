@@ -1,8 +1,6 @@
 # weather_app
 
-A new Flutter application.
+Weather conditions at the current location
 
-## Getting Started
+## Screenshot
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
