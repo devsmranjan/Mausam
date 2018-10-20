@@ -1,6 +1,6 @@
 # weather_app
 
-Weather conditions at the current location
+Weather conditions at your current location
 
 ## Screenshot
 
